@@ -1,6 +1,6 @@
 ---
 title: "Data Article: Trier social stress test and food-choice: Behavioral, self-report & hormonal data"
-author: "Felix Jan Nitsch; Manuela Sellitto; Tobias Kalenscher"
+author: "Felix Jan Nitsch; Manuela Sellitto; Tobias Kalenscher (UIC Workshop version)"
 date: "June, 25 2021"
 output:
   html_document:
