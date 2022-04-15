@@ -10,7 +10,7 @@ bibliography: references.bib
 
 Citation to original version of this data article:
 
-Nitsch, F. J., Sellitto, M., & Kalenscher, T. (2021). Trier social stress test and food-choice: Behavioral, self-report & hormonal data. Data in brief (**FIXME1**), *37*, 107245. https://doi.org/10.1016/j.dib.2021.107245 (**FIXME2**)
+Nitsch, F. J., Sellitto, M., & Kalenscher, T. (2021). Trier social stress test and food-choice: Behavioral, self-report & hormonal data. Data in brief (**FIXME1**), *37*, 107245. https://doi.org/10.1016/j.dib.2021.107245 DATA IN BRIEF
 
 **Abstract**
 
